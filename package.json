@@ -1,0 +1,25 @@
+{
+  "name": "node-js-images-to-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "axios": "^1.4.0",
+    "colors": "^1.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "imagemin": "^8.0.1",
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "imagemin-svgo": "^10.0.1",
+    "imagemin-webp": "^8.0.0",
+    "videoshow": "^0.1.12"
+  }
+}
